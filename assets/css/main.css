@@ -1385,7 +1385,7 @@ input, select, textarea {
 	}
 
 	p {
-		font-size: 0.75em;
+		font-size: 1.0em;
 		letter-spacing: -0.015em;
 	}
 
@@ -1466,7 +1466,7 @@ input, select, textarea {
 			border-bottom: solid 2px #f4f4f4;
 		}
 
-/* Form */
+/* Form 
 
 	form label {
 		display: block;
@@ -1520,7 +1520,7 @@ input, select, textarea {
 
 	form :-ms-input-placeholder {
 		color: #999;
-	}
+	}*/
 
 /* Section/Article */
 
@@ -1595,7 +1595,7 @@ input, select, textarea {
 				width: auto;
 			}
 
-/* Button */
+/* Button 
 
 	input[type="button"],
 	input[type="submit"],
@@ -1692,7 +1692,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
+		}*/
 
 /* List */
 
@@ -1978,6 +1978,12 @@ input, select, textarea {
 			position: relative;
 			padding: 3.5em 2.5em 2.5em 2.5em;
 			width: 100%;
+		}
+
+		#main > .panel.intro header p {
+			letter-spacing: -0.015em;
+			font-size: 0.75em;
+			margin: 0.25em 0 0 0;
 		}
 
 			#main > .panel.inactive {
