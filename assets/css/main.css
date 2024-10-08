@@ -2106,7 +2106,7 @@ input, select, textarea {
 
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
-						font-size: 1em;
+						font-size: 1.0em;
 						margin: 0.25em 0 0 0;
 					}
 
@@ -2143,7 +2143,7 @@ input, select, textarea {
 					}
 
 						#main > .panel.intro header p {
-							font-size: 1em;
+							font-size: 1.0em;
 							margin: 0.25em 0 0 0;
 						}
 
