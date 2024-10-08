@@ -1384,11 +1384,6 @@ input, select, textarea {
 		letter-spacing: -0.015em;
 	}
 
-	p {
-		font-size: 1.25em;
-		letter-spacing: -0.015em;
-	}
-
 	@media screen and (max-width: 736px) {
 
 		h1 {
@@ -2111,7 +2106,7 @@ input, select, textarea {
 
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
-						font-size: 1.25em;
+						font-size: 1em;
 						margin: 0.25em 0 0 0;
 					}
 
